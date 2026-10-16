@@ -1,0 +1,16 @@
+{
+  "name": "itc-pwa-guide",
+  "description": "The ITC Prevailing Wage & Apprenticeship Guide: a remote MCP server for the IRS PWA rules behind the 5x clean-energy credit.",
+  "owner": { "name": "Ovanova", "email": "support@ovanova.co", "url": "https://ovanova.co" },
+  "plugins": [
+    {
+      "name": "itc-pwa-guide",
+      "source": "./plugins/itc-pwa-guide",
+      "description": "Ask Claude the prevailing wage and apprenticeship questions a solar, storage or microgrid job raises: who counts toward the four, the 15% test, daily ratios, pay checks and cures, live Davis-Bacon rates, live regulation text.",
+      "category": "productivity",
+      "tags": ["tax-credit", "prevailing-wage", "apprenticeship", "davis-bacon", "solar", "ITC", "IRA", "compliance"],
+      "homepage": "https://itc-pwa-guide.sitetime.workers.dev",
+      "license": "MIT"
+    }
+  ]
+}

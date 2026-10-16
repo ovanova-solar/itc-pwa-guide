@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ovanova-solar/itc-pwa-guide",
+  "title": "ITC Prevailing Wage & Apprenticeship Guide",
+  "description": "IRS prevailing wage & apprenticeship (PWA) rules for the clean-energy ITC: checks, cures, rates.",
+  "version": "1.0.0",
+  "websiteUrl": "https://itc-pwa-guide.sitetime.workers.dev",
+  "icons": [
+    {
+      "src": "https://itc-pwa-guide.sitetime.workers.dev/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://itc-pwa-guide.sitetime.workers.dev/mcp"
+    }
+  ]
+}

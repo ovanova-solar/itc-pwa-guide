@@ -1,0 +1,13 @@
+{
+  "name": "itc-pwa-guide",
+  "version": "1.0.0",
+  "description": "IRS prevailing wage & apprenticeship (PWA) rules for the clean-energy ITC: checks, cures, live rates and regulation text, as MCP tools.",
+  "author": { "name": "Ovanova", "email": "support@ovanova.co", "url": "https://ovanova.co" },
+  "homepage": "https://itc-pwa-guide.sitetime.workers.dev",
+  "repository": "https://github.com/ovanova-solar/itc-pwa-guide",
+  "license": "MIT",
+  "keywords": ["prevailing wage", "apprenticeship", "ITC", "48E", "Davis-Bacon", "solar", "compliance"],
+  "documentationUrl": "https://itc-pwa-guide.sitetime.workers.dev",
+  "supportUrl": "mailto:support@ovanova.co",
+  "privacyPolicyUrl": "https://itc-pwa-guide.sitetime.workers.dev/privacy"
+}

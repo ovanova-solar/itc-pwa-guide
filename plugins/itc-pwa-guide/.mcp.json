@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "itc-pwa-guide": {
+      "type": "http",
+      "url": "https://itc-pwa-guide.sitetime.workers.dev/mcp"
+    }
+  }
+}
